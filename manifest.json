@@ -1,0 +1,9 @@
+{
+  "name":"মামুন ছাত্রাবাস বিল হিসাব",
+  "short_name":"মামুন বিল",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f3f4f6",
+  "theme_color":"#111827",
+  "lang":"bn"
+}
